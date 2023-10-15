@@ -7,7 +7,8 @@
     font-family: 'Playfair Display', serif;
 }
 body {
-    background: #bbc6fa;
+    /* background: #bbc6fa; */
+    background: #262a2f;
 }
 .quote_box {
     background-color: #fff;
@@ -31,7 +32,8 @@ body {
     width: 75px;
     height: 3px;
     border-radius: 3px;
-    background: rgb(23, 124, 229);
+    /* background: rgb(23, 124, 229); */
+    background: #aa4e2a;
     position: absolute;
     bottom: -10px;
     left: 50%;
@@ -58,7 +60,8 @@ body {
     content: '';
     width: 20px;
     height: 2px;
-    background: rgb(23, 124, 229);
+    /* background: rgb(23, 124, 229); */
+    background: #aa4e2a;
     position: absolute;
     top: 50%;
     left: -30px;
@@ -72,10 +75,12 @@ body {
 }
 
 .quote_box button {
-    background: rgb(23, 124, 229);
+    /* background: rgb(23, 124, 229); */
+    background: #aa4e2a;
     color: #fff;
     border-radius: 25px;
-    border: 1px solid rgb(23, 124, 229);
+    /* border: 1px solid rgb(23, 124, 229); */
+    border: 1px solid #aa4e2a;
     width: 150px;
     height: 50px;
     display: flex;
